@@ -1,0 +1,11 @@
+ul{
+    color: aqua;
+    background-color: blanchedalmond;
+    /* align-items: center; */
+    text-underline-offset: none;
+    align-items: normal;
+    text-align: center;
+}
+.smoothScroll{
+    vertical-align: baseline;
+}
